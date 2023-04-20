@@ -24,12 +24,11 @@
 ## Run app on your local machine:
 - Install the dependencies on Server Side as well as client side
     ```bash
+    cd server/
     npm i
+    node server.js
+    
     cd client/
     npm i
-    cd ..
+    npm start
      ```
-- Run the project in your local machine
-    ```bash
-    npm run dev
-    ```
