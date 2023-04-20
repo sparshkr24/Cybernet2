@@ -11,7 +11,7 @@ import {
     REMOVE_COMMENT,
 } from './types';
 
-const BASE_URL = "http://35.154.207.94:5000"
+const BASE_URL = "http://localhost:5000"
 // import dotenv from 'dotenv';
 // dotenv.config();
 // const BASE_URL = process.env.BACKEND_URL

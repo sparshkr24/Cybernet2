@@ -18,7 +18,7 @@ import setAuthToken from '../utils/setAuthToken';
 // dotenv.config();
 // const BASE_URL = process.env.BACKEND_URL
 
-const BASE_URL = "http://35.154.207.94:5000"
+const BASE_URL = "http://localhost:5000"
 
 
 //Load User
