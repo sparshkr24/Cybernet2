@@ -1,10 +1,13 @@
 # CyberNet ‎‍💻
+
+### Live Link:-https://cybernet.onrender.com/
+
 - A Social network for Programmers, built on the MERN stack
 - Functionalities of the app:
-    - Signup or login into DevLink
+    - Signup or login into CyberNet
     - Add Details to your profile (Education, Experience, Social Links etc.)
-    - Add your Github username to display your top five repositories
-    - Connect with other developers and post your updates, Like and Comment on different posts in the Dev community
+    - Connect with other developers
+    - Post your ideas, Like and Comment on different posts in the Dev community
 
 ***
 
